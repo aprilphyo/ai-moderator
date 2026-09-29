@@ -1,5 +1,9 @@
 # 🛡️ AI Content Moderator
+![AI Moderator – Safe Content](screenshots/app-safe.png)
 
+![AI Moderator – Harmful Content](screenshots/app-harmful.png)
+
+![AI Moderator – Burmese Content](screenshots/app-burmese.png)
 An AI-powered content moderation application built with Python, Hugging Face Transformers, and Streamlit.
 
 The application analyzes user-generated comments in **English and Burmese** and provides a risk assessment to help identify potentially harmful content.
