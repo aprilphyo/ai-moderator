@@ -3,6 +3,11 @@
 An AI-powered multilingual content moderation application built with **Python, Hugging Face Transformers, PyTorch, and Streamlit**.
 
 The application analyzes user-generated comments in **English and Burmese** and provides a risk assessment to help identify potentially harmful content.
+## 🚀 Live Demo
+
+👉 **[Try the AI Moderator Live](https://ai-moderator.streamlit.app)**
+
+The application analyzes user-generated content in English and Burmese and provides a risk score and moderation decision.
 
 ## 📸 Application Demo
 
